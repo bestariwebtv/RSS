@@ -1,4 +1,4 @@
-# Vbat
+# RSSI Monitoring
 LUA Script untuk Notifikasi Nilai RSSI di masing masing antenna receiver ELRS di Remote Drone FPV
 
 # CARA INSTALL
